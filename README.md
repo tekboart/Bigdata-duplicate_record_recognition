@@ -2,9 +2,9 @@
   <p>
     <a align="center" href="" target="_blank">
       <img
-        width="75%"
+        width="70%"
         style="border-radius: 20px;"
-        src="images/data_freq.png"
+        src="images/data_freq.jpg"
       >
     </a>
   </p>
